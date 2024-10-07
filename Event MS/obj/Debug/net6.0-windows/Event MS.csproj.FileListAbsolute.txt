@@ -1,0 +1,210 @@
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.exe
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.deps.json
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.runtimeconfig.json
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.pdb
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.AssemblyReference.cache
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddAdmin.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddEvents.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminDashBoard.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminEvents.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminLogOut.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminMember.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.Form1.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.LoginForm.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.LoginMember.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberBookings.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberDashBoard.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberEvents.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberLogOut.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.Properties.Resources.resources
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.GenerateResource.cache
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfoInputs.cache
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfo.cs
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.CoreCompileInputs.cache
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.CopyComplete
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\refint\Event MS.dll
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.pdb
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.genruntimeconfig.cache
+C:\Users\Ravindu Dilshan\Downloads\Event MS\Event MS\Event MS\obj\Debug\net6.0-windows\ref\Event MS.dll
+D:\dev\visual studio project\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.dll
+D:\dev\visual studio project\Event MS\Event MS\obj\Debug\net6.0-windows\refint\Event MS.dll
+D:\dev\visual studio project\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.pdb
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\refint\Event MS.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.pdb
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.exe
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.AssemblyReference.cache
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddAdmin.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddEvents.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminDashBoard.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminEvents.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminLogOut.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminMember.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.Form1.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.LoginForm.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.LoginMember.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberBookings.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberDashBoard.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberEvents.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberLogOut.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.Properties.Resources.resources
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.GenerateResource.cache
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfoInputs.cache
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfo.cs
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.CoreCompileInputs.cache
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.sourcelink.json
+D:\dev\visual studio project\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.Up2Date
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.exe
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.deps.json
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.runtimeconfig.json
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Event MS.pdb
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\MySql.Data.EntityFrameworkCore.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.AssemblyReference.cache
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddAdmin.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AddEvents.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminDashBoard.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminEvents.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.AdminMember.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.LoginForm.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.LoginMember.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberBookings.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.GUIs.MemberEvents.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event_MS.Properties.Resources.resources
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.GenerateResource.cache
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfoInputs.cache
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.AssemblyInfo.cs
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.CoreCompileInputs.cache
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.csproj.Up2Date
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\refint\Event MS.dll
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.pdb
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\Event MS.genruntimeconfig.cache
+D:\Test\New folder\Event_MS_2024\Event MS\Event MS\obj\Debug\net6.0-windows\ref\Event MS.dll
